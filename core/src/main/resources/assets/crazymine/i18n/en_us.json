@@ -1,0 +1,14 @@
+{
+  "crazymine": {
+    "settings": {
+      "name": "CrazyMine",
+      "enabled": {
+        "name": "Enabled"
+      },
+      "serverPauseMenu": {
+        "name": "CrazyMine pause menu",
+        "description": "Shows the CrazyMine.de pause menu from the server resource pack instead of the LabyMod design. Only on CrazyMine.de."
+      }
+    }
+  }
+}

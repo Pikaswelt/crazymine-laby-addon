@@ -1,0 +1,14 @@
+{
+  "crazymine": {
+    "settings": {
+      "name": "CrazyMine",
+      "enabled": {
+        "name": "Aktiviert"
+      },
+      "serverPauseMenu": {
+        "name": "CrazyMine-ESC-Menü",
+        "description": "Zeigt das ESC-Menü aus dem Resourcepack von CrazyMine.de statt im LabyMod-Design. Nur auf CrazyMine.de."
+      }
+    }
+  }
+}
